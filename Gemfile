@@ -18,6 +18,7 @@ group :test do
 	gem 'rspec'
 	gem 'webrat'
 	gem 'spork'
+	gem 'capybara'
 end
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
